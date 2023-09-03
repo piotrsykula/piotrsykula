@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @piotrsykula
-- 👀 I’m interested in Data Science
-- 🌱 I’m currently learning Intermediate Statistics
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in Data Science/Python
+- 🌱 I’m currently learning Machine Learning Introduction(K-Nearest Neighbors)
 - 📫 How to reach me piotr.sykula.98@gmail.com
 
 <!---
